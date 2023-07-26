@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/beevik/etree.svg?branch=master)](https://travis-ci.org/beevik/etree)
 [![GoDoc](https://godoc.org/github.com/beevik/etree?status.svg)](https://godoc.org/github.com/beevik/etree)
 
-etree
+etree - 1
 =====
 
 The etree package is a lightweight, pure go package that expresses XML in
